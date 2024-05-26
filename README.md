@@ -2,11 +2,7 @@
 
 The **Inventory Management System** is a command-line application developed in Python for managing inventory. The application allows users to view, add, sell, update, rename, and remove inventory items, as well as record transactions.
 
-## Screenshots
-
-![Screenshot 1](screenshots/Screenshot-Full.png)
-<img src="screenshots/Screenshot-2023-11-30-204113.png" width="50%" align="left"/>
-<img src="screenshots/Screenshot-2023-11-30-203839.png" width="50%" align="right"/>
+![Screenshot](screenshot.png)
 
 ## Features
 
