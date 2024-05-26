@@ -5,8 +5,8 @@ The **Inventory Management System** is a command-line application developed in P
 ## Screenshots
 
 ![Screenshot 1](screenshots/Screenshot-Full.png)
-![Screenshot 2](screenshots/Screenshot-2023-11-30-204113.png)
-![Screenshot 3](screenshots/Screenshot-2023-11-30-203839.png)
+<img src="screenshots/Screenshot-2023-11-30-204113.png" width="50%" align="left"/>
+<img src="screenshots/Screenshot-2023-11-30-203839.png" width="50%" align="right"/>
 
 ## Features
 
